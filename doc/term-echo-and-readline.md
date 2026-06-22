@@ -2,7 +2,7 @@
 
 > 归档自问答：解释 `DefaultTermStdinHandler` 中 `term.echo()` 的含义，以及它与 Readline 行编辑的关系。
 
-关联文档：[command-flow-and-termd.md](./command-flow-and-termd.md)、[readline-interaction-handle.md](./readline-interaction-handle.md)
+关联文档：[command-flow-and-termd.md](./command-flow-and-termd.md)、[readline-interaction-handle.md](./readline-interaction-handle.md)、[inputrc-and-key-flow.md](./inputrc-and-key-flow.md)
 
 ---
 

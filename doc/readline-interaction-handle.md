@@ -4,7 +4,7 @@
 >
 > 归档日期：2026-06-17
 
-关联文档：[command-flow-and-termd.md](./command-flow-and-termd.md)、[term-echo-and-readline.md](./term-echo-and-readline.md)
+关联文档：[command-flow-and-termd.md](./command-flow-and-termd.md)、[term-echo-and-readline.md](./term-echo-and-readline.md)、[inputrc-and-key-flow.md](./inputrc-and-key-flow.md)、[telnet-negotiation-and-accept.md](./telnet-negotiation-and-accept.md)
 
 关联项目：`D:\mycode\termd`（Arthas 终端底层库）
 
